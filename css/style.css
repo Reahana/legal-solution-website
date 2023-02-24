@@ -1,3 +1,10 @@
 .justice-width{
     width: 1000px;
 }
+.justice-btn{
+    background: #B68C5A;
+    color: #fff;
+}
+.justice-btn:hover{
+    border:2px solid #B68C5A;
+}
